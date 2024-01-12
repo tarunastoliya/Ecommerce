@@ -127,11 +127,10 @@ const Product = () => {
         <InfoContainer>
           <Title>Denim Jumpsuit</Title>
           <Desc>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec
-            venenatis, dolor in finibus malesuada, lectus ipsum porta nunc, at
-            iaculis arcu nisi sed mauris. Nulla fermentum vestibulum ex, eget
-            tristique tortor pretium ut. Curabitur elit justo, consequat id
-            condimentum ac, volutpat ornare.
+          Tailored denim jumpsuit with a front zip fastening. You can wear it for a casual day at work or for a long walk or shopping. 
+          Wear it with a pair of trainers or ballerinas. Short sleeve. Straight long leg. 
+          Material : cotton with elastane 
+          Hand wash recommended. Alternatively, machine wash on a delicate cycle at your own responsibility. 
           </Desc>
           <Price>$ 20</Price>
           <FilterContainer>
